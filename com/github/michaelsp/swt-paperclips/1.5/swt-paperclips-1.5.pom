@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.michaelsp</groupId>
-  <artifactId>obantoo</artifactId>
-  <version>2.1.12-SNAPSHOT</version>
+  <artifactId>swt-paperclips</artifactId>
+  <version>1.5</version>
   <dependencies>
     <dependency>
-      <groupId>com.itextpdf</groupId>
-      <artifactId>itextpdf</artifactId>
-      <version>5.3.4</version>
+      <groupId>org.eclipse.platform</groupId>
+      <artifactId>org.eclipse.swt</artifactId>
+      <version>3.111.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
