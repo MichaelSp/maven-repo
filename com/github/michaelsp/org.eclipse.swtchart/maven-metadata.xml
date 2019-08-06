@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.michaelsp</groupId>
-  <artifactId>swtchart</artifactId>
+  <artifactId>org.eclipse.swtchart</artifactId>
   <versioning>
     <release>0.8.0</release>
     <versions>
       <version>0.8.0</version>
     </versions>
-    <lastUpdated>20190806194914</lastUpdated>
+    <lastUpdated>20190806195010</lastUpdated>
   </versioning>
 </metadata>
