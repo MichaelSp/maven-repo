@@ -3,9 +3,11 @@
   <groupId>com.github.michaelsp</groupId>
   <artifactId>swtchart</artifactId>
   <versioning>
+    <release>0.8.0</release>
     <versions>
       <version>0.8.0-SNAPSHOT</version>
+      <version>0.8.0</version>
     </versions>
-    <lastUpdated>20190806193034</lastUpdated>
+    <lastUpdated>20190806193944</lastUpdated>
   </versioning>
 </metadata>
